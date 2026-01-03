@@ -34,7 +34,7 @@ Computer Science graduate currently working as a Data Analyst and developing ful
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/>](https://www.linkedin.com/in/jana-albader/)
 
 ## GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=janaalbader28&layout=compact&theme=dark&v=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=janaalbader28&layout=compact&theme=dark&cache_seconds=1800)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=janaalbader28&show_icons=true&theme=dark&v=1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=janaalbader28&show_icons=true&theme=dark&cache_seconds=1800)
 
